@@ -1,0 +1,16 @@
+.comment{
+  color: #fdf9f3;
+}
+
+.comment-header{
+  text-transform: uppercase;
+}
+
+.comment-footer-delete{
+  font-weight: bold;
+  text-align: right;
+  text-transform: uppercase;
+  color: #a9a9a9;
+  float: right;
+
+}

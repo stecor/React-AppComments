@@ -10,7 +10,7 @@ class Comment extends Component {
         <hr/>
         <p className="comment-body">{this.props.body}</p>
         <div className="commen-footer">
-          <a href="#"  className="comment-footer-delete">Delete comment</a>
+          <a href=""  className="comment-footer-delete">Delete comment</a>
         </div>
 
       </div>

@@ -38,6 +38,10 @@ class CommentBox extends Component {
       );
   }
 
+  _deleteComment(){
+
+  }
+
   _addComment(author,body){
     const comment = { id: this.state.comments.length +1, author, body};
     this.setState({comments: this.state.comments.concat([comment])});

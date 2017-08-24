@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './commentForm.css';
 
-class CommentForm extends React.Component{
+class CommentForm extends Component{
 
   render(){
     return(
